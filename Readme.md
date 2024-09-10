@@ -2,7 +2,7 @@
 
 ### This portfolio has smooth transitions and easy navigation.
 
-#### This is the link for the live working webpage 👉 https://nilesh007-portfolio.netlify.app/#profile
+#### This is the link for the live working webpage 👉 https://nilesh007-portfolio.netlify.app/
 
 ## Here are some images and video of the porfolio website.
 
